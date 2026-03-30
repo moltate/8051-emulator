@@ -214,12 +214,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 \---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 * Intel 8051 Architecture Reference Manual
 * MCS-51 Programmer's Guide and Instruction Set
 
 \---
-
-> Built with ❤️ — runs entirely in your browser, no install needed.
 
