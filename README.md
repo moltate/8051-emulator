@@ -1,6 +1,7 @@
 # 🖥️ 8051 Emulator — Web-Based Assembly Simulator
 
 A fully functional **Intel 8051 microcontroller emulator** that runs entirely in the browser — no installation, no dependencies. Write, assemble, and execute 8051 assembly code with real-time register, flag, and memory visualization.
+![8051 Emulator Screenshot](screenshot.png)
 \---
 
 ## ✨ Features
